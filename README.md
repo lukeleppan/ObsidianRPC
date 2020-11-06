@@ -1,6 +1,6 @@
 # ObsidianRPC
 
-For Obsidian >0.9.10: https://github.com/lukeleppan/ObsidianDiscordRPC
+For Obsidian >0.9.10: https://github.com/lukeleppan/obsidian-discordrpc
 
 ### A Discord Rich Presence Plugin for Obsidian
 
